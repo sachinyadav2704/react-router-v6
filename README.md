@@ -112,3 +112,7 @@ Handles all unmatched routes gracefully.
 | Redirection       | `<Redirect to="/" />`                   | `<Navigate to="/" />`                   |
 | Route Guards      | Handled manually with custom logic.     | Easier with `<Navigate />`.             |
 | Query Parameters  | Managed manually with `useLocation`.    | Simplified with `useSearchParams`.      |
+
+---
+## Project Img
+![ProjectImg](https://github.com/user-attachments/assets/d296c521-eff4-4490-b3ab-67dc2be42975)
